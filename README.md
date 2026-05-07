@@ -45,7 +45,7 @@ npx playwright show-report
 
 The report is saved to `playwright-report/` and includes pass/fail status, execution time, and error traces.
 
-## Project Structur
+## Project Structure
 
 ```
 tests/
